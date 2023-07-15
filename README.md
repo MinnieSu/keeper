@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- ABOUT THE PROJECT -->
+# Keeper 
+A web app that allows users to easily take notes and organize their ideas. With a simple-to-use interface, users can create, edit, and delete notes seamlessly. :wink::thought_balloon:
+<br/>
+\
+This project aims to provide a user-friendly note-taking experience similar to the popular Google Keep application.
 
-## Available Scripts
+# Features
+<ul>
+  <li>Note Creation:
+    <ul>
+      <li>Users can easily create new notes by clicking on the "Add" button. </li>
+       <li>The note editor is where users can enter their ideas and thoughts, or anything they want to capture.</li>
+    </ul>
+     </li>
+  <br/>
+  <li>Note Deletion:
+    <ul>
+      <li>If a note is no longer needed, users can simply delete it with a single click. </li>
+      <li>This removes the note from the application, ensuring a clutter-free note-taking experience.</li>
+    </li>
+    </ul>
+</ul>
 
-In the project directory, you can run:
+# Built with
+* [![React][React.com]][React-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
-### `npm start`
+# Future Enhancement
+<ul>
+  <li>User Authentication: Implement user authentication functionality to allow users to sign up, log in, and store their notes securely.</li>
+  <li>Note Categorization: Add the ability to categorize notes using labels or tags for better organization and easy retrieval.</li>
+  <li>Reminder Notifications: Enable users to set reminders for their notes and receive notifications when the reminders are due.</li>
+  <li>Collaboration: Implement real-time collaboration features, allowing users to share notes and work together on them.</li>
+</ul>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Credit
+<p>This web app is originated from "The Complete 2023 Web Development Bootcamp" by Dr. Angela Yu on Udemy. </p>
+<br>
+<p align="left">(<a href="#readme-top">🔼 Back to top</a>)</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<!-- MARKDOWN LINKS & IMAGES -->
+[React.com]: https://img.shields.io/badge/React-087ea4?style=for-the-badge&logo=react&logoColor=white
+[React-url]: https://react.dev/
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com
